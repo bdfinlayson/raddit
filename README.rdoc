@@ -1,28 +1,17 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/1/
 
-Things you may want to cover:
+The branches were created in the following order:
 
-* Ruby version
+* add_users
+* add_bootstrap
+* add_acts_as_votable
+* add_comments
+* add_names
 
-* System dependencies
+To demo the app, clone the repo and run:
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+`bundle init
+`rake db:migrate
+`rails s
