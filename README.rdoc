@@ -4,14 +4,14 @@ This repo is based on Mackenzie Child's excellent rails tutorial series: https:/
 
 The branches were created in the following order:
 
-* add_users
-* add_bootstrap
-* add_acts_as_votable
-* add_comments
-* add_names
+    * add_users
+    * add_bootstrap
+    * add_acts_as_votable
+    * add_comments
+    * add_names
 
 To demo the app, clone the repo and run:
 
-`bundle init
-`rake db:migrate
-`rails s
+    `bundle init
+    `rake db:migrate
+    `rails s
