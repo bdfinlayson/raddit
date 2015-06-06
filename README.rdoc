@@ -1,6 +1,6 @@
 == README
 
-This repo is based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/1/
+This app is based on Mackenzie Child's excellent rails tutorial series: https://mackenziechild.me/12-in-12/1/
 
 The branches were created in the following order:
 
